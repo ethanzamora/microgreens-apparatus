@@ -2,7 +2,7 @@
 
 A custom-designed growing apparatus built for [Homegrown Microgreens](https://www.instagram.com/homegrown_inc/), a Sacramento-based microgreens grower. The device ensures proper growth of roots into the soil during the seed's germination and prevents the growth of mold. It has been in daily use since February 2026.
 
-photo
+![Stack of V6 prototypes](images/final.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ I worked with the owners to understand exactly what they needed and what constra
 
 ## My Design
 
-![Fusion 360 render](images/fusion-render.png)
+![Fusion 360 render](images/HGIV6render.png)
 *Fusion 360 model of the final design.*
 
 The apparatus is built around pyramids that replace the plastic cells attached to a flat base which allows weight to be applied. Key design decisions:
@@ -39,7 +39,18 @@ I went through 6 main revisions before landing on the final design:
 5. **v5** — Indents removed, Negative hexagon pattern applied to entire apparatus. Did not allow for enough transfer of weight to entire top of soil.
 6. **v6** — Pyramids made solid and separate from base, dividing print load between two machines, cutting down print times, and allowing for color customization of base and pyramids.
 
-![Side-by-side of versions](images/iterations.jpg)
+[V2]
+![v2 front](images/v2front.jpg)
+![v2 rear](images/v2rear.jpg)
+[V3]
+![v3](images/v3.jpg)
+[V4]
+![v4](images/v4.jpg)
+[V5]
+![v5 rear](images/v5rear.jpg)
+[V6]
+![v6 front](images/v6front.jpg)
+![v6 rear](images/v6.jpg)
 
 ---
 
@@ -79,11 +90,9 @@ If I built v7, I would:
 
 ## Files in this repo
 
-- `design/apparatus.f3d` — Fusion 360 source file
-- `design/stl/` — Exported STL files for printing
-- `design/drawings.pdf` — Technical drawings with dimensions
+- `design/HGIV6.f3z` — Fusion 360 source file
+- `design/HGIV6.stl/, design/HGIV6-pyramid.stl/` — Exported STL files for printing
 - `images/` — Photos of the build process and finished device
-- `bom.md` — Bill of materials with sources and prices
 
 ---
 
