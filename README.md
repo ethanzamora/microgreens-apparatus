@@ -20,7 +20,7 @@ I worked with the owners to understand exactly what they needed and what constra
 
 ## My Design
 
-![Fusion 360 render](images/HGIV6render.png)
+![Fusion 360 render](design/HGIV6render.png)
 *Fusion 360 model of the final design.*
 
 The apparatus is built around pyramids that replace the plastic cells attached to a flat base which allows weight to be applied. Key design decisions:
