@@ -71,7 +71,7 @@ I went through 6 main revisions before landing on the final design:
 - Bambu Lab P1S + Creality K1 Max
 - PLA filament
 
-**Total cost per unit:** ~$15 in filament
+**Total cost per unit:** ~$5 in filament
 
 ---
 
