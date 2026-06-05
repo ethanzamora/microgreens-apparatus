@@ -56,9 +56,9 @@ I went through 6 main revisions before landing on the final design:
 
 ## Results
 
-- **Loss of microgreens:** Prevented mold unlike previous method
-- **Resources saved by HomeGrown** Allows HomeGrown to use more of their cells for growing
-- **Status:** Still in daily use as of May 2026
+- **Prevented loss of microgreens:** Prevented mold unlike previous method
+- **Resources saved by HomeGrown:** Allows HomeGrown to use more of their cells for growing
+- **Status:** Still in daily use as of June 2026
 
 ---
 
